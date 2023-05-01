@@ -1,3 +1,3 @@
 # armstrong-perfect-prime
 
-checking of the number is armstrong pr perfect or prime
+checking of the number is armstrong or perfect or prime
