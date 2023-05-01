@@ -1,4 +1,4 @@
-#checking of the number is armstrong or perfect or prime
+//checking of the number is armstrong or perfect or prime
 #include<stdio.h>
 #include<math.h>
 void prime(int n){
